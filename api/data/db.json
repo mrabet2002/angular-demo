@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 20,
+      "checked": false
+    },
+    {
+      "id": "9432",
+      "name": "Gavin Norris",
+      "price": 917,
+      "checked": false
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 20,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Monitor",
+      "price": 200,
+      "checked": true
+    },
+    {
+      "id": "cd62",
+      "name": "Ryan Casey",
+      "price": 784,
+      "checked": true
+    },
+    {
+      "id": "9432",
+      "name": "Gavin Norris",
+      "price": 917,
+      "checked": false
+    },
+    {
+      "id": "2",
+      "name": "Mouse",
+      "price": 20,
+      "checked": false
+    },
+    {
+      "id": "4",
+      "name": "Monitor",
+      "price": 200,
+      "checked": true
+    },
+    {
+      "id": "cd62",
+      "name": "Ryan Casey",
+      "price": 784,
+      "checked": true
+    },
+    {
+      "id": "9432",
+      "name": "Gavin Norris",
+      "price": 917,
+      "checked": false
+    }
+  ]
+}
