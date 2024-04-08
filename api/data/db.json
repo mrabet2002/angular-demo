@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "id": "2",
       "name": "Mouse",
-      "price": 20,
-      "checked": false
+      "price": 21,
+      "checked": true,
+      "id": "2"
     },
     {
       "id": "9432",
